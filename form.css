@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #1c478e;
+    color: #fff;
+}
+#h1{
+    color: #fff;
+    background-color: #333;
+    padding: 5px;
+}
+.whole{
+    padding-left: 10px;
+}
+
+
+
+button{
+    margin-top: 8px;
+    padding:4px;
+
+}
+.button:hover{
+    background-color: yellow;
+    cursor: pointer;
+    transition:1s ; /* waiting duration for hovering*/
+}
+label{
+    display: inline-block;      /*to give width converting inline to block*/
+    width:200px;
+}

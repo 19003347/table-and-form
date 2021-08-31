@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+#start{
+    background-color: #333;
+    color: #fff;
+    padding:7px;
+}
+
+.learn{
+    width: 610px;
+}
+.fun{
+    width: 500px;
+    float: left;
+}
+table{
+    width: 350px;
+}
+td{
+    border-bottom: 1px dashed #fff;
+    padding: 5px;
+}
+h3{
+   background-color: #2685a9; 
+   width: 350px;
+   padding: 4px;
+}
+.order{
+    width: 150px;
+    float: right;
+    background-color: black;
+    margin-top: -473px;
+    padding: 15px;
+}
